@@ -1,0 +1,1 @@
+export type HomingURLType = "download-button-url" | "legacy-streaming-url"
